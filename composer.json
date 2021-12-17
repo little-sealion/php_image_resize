@@ -1,0 +1,17 @@
+{
+    "name": "zhengtaishi/image_resize",
+    "autoload": {
+        "psr-4": {
+            "tc\\bulkimageresize\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "little-sealion",
+            "email": "tess.zheng@outlook.com"
+        }
+    ],
+    "require": {
+        "imagine/imagine": "^1.2"
+    }
+}
